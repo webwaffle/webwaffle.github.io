@@ -1,0 +1,18 @@
+.navbar {
+    position: fixed;
+    z-index: 100;
+    right: 100px;
+    top: 50px;
+    height: 75px;
+    width: 300px;
+    background-color: black;
+}
+.nav-link {
+    float: left;
+    color: white;
+    padding: 8px;
+    padding-bottom: 12px;
+    border-bottom: 4px solid white;
+    text-decoration: none;
+    margin-top: 30px;
+}
