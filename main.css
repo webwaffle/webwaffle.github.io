@@ -1,18 +1,41 @@
-.navbar {
-    position: fixed;
-    z-index: 100;
-    right: 100px;
-    top: 50px;
-    height: 75px;
-    width: 300px;
-    background-color: black;
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono|Roboto+Slab');
+* {
+  font-family: 'Roboto', sans-serif;
 }
+h1 {
+  font-family: 'Roboto Slab', sans-serif;
+}
+.navbar {
+  position: fixed;
+  z-index: 100;
+  right: 100px;
+  top: 50px;
+  height: 75px;
+  width: 350px;
+  background-color: black;
+}
+
 .nav-link {
-    float: left;
-    color: white;
-    padding: 8px;
-    padding-bottom: 12px;
-    border-bottom: 4px solid white;
-    text-decoration: none;
-    margin-top: 30px;
+  float: left;
+  color: white;
+  padding: 8px;
+  padding-bottom: 12px;
+  border-bottom: 4px solid white;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-left: 8px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.nav-link:hover {
+  float: left;
+  color: black;
+  padding: 8px;
+  padding-bottom: 12px;
+  border-bottom: 4px solid white;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-left: 8px;
+  font-family: 'Roboto Mono', monospace;
+  background-color: white;
 }
