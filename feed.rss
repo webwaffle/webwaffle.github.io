@@ -9,5 +9,10 @@
             <link>https://webwaffle.github.io/blog/07-23-18.html</link>
             <description>The reasons why Vue.js is better than Angular.js and React.js</description>
         </item>
+        <item>
+            <title>Editor Showdown</title>
+            <link>https://webwaffle.github.io/blog/07-23-18-2.html</link>
+            <description>A comparison of various editors</description>
+        </item>
     </channel>
 </rss>

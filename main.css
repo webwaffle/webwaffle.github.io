@@ -5,6 +5,9 @@
 *[w] {
     color: white;
 }
+*[b] {
+    color: black;
+}
 body {
     margin: 0;
 }
