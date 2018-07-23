@@ -32,4 +32,4 @@ setInterval(function () {
     currentIndex++;
     console.log('rotated');
 }, 2000);*/
-var projectSlide = w3.slideshow('.project', 1500);
+var projectSlide = w3.slideshow('.project', 3000);
