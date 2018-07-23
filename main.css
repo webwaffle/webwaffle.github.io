@@ -16,6 +16,7 @@ h1, h2 {
 }
 #site-name {
     font-family: 'Lobster', cursive;
+    font-size: 25px;
     color: white;
     margin: 0 auto;
 }
@@ -27,6 +28,7 @@ h1, h2 {
   height: 100px;
   width: 350px;
   background-color: black;
+  text-align: center;
 }
 
 .nav-link {
